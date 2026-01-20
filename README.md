@@ -6,7 +6,7 @@ Sky - Universe is an extension repo for [SkyStream](https://github.com/akashdh11
 ### 1. Installation
 To install SkyStream on your device, follow these steps:
 
-* **Download:** Navigate to the [official GitHub repository](https://github.com/akashdh11/skystream) and download the latest release for your platform.
+* **Download:** Navigate to the [SkyStream releases page](https://github.com/akashdh11/skystream/releases/) and download the latest release for your platform.
 * **Install:** Open the downloaded file and follow your system's installation prompts.
 * **Launch:** Once installed, open the **SkyStream** app.
 
