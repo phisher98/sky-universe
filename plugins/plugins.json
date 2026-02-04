@@ -169,4 +169,21 @@
     "iconUrl": "",
     "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/FourKHDHub.sky"
   }
+  {
+    "id": "dev.phisher.stars.Yflix",
+    "name": "Yflix",
+    "internalName": "Yflix",
+    "version": 1,
+    "authors": [
+      "Phisher"
+    ],
+    "description": "Yflix Provider",
+    "language": "en",
+    "tvTypes": [
+      "Movie"
+    ],
+    "baseUrl": "MAIN_URL",
+    "iconUrl": "",
+    "url": "https://raw.githubusercontent.com/akashdh11/sky-universe/refs/heads/main/plugins/Yflix.sky"
+  }
 ]
